@@ -1,0 +1,15 @@
+[project]
+name = "approximate-qft-qrisp"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "ipykernel>=7.3.0",
+    "jupyter>=1.1.1",
+    "matplotlib>=3.11.1",
+    "numpy>=2.4.6",
+    "qiskit>=2.5.2",
+    "qrisp>=0.9.7",
+    "scipy>=1.18.0",
+]
